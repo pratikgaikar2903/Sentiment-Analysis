@@ -1,4 +1,5 @@
-<img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/3b093761-605a-4cc2-9aa0-adc694bd8b19" />
+<img width="1024" height="506" alt="image" src="https://github.com/user-attachments/assets/313a887e-563c-47a8-8be2-75435c267f7b" />
+
 
 # Emotion Classification Notebook
 
