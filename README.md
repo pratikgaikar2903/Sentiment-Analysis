@@ -54,7 +54,7 @@ print(f"The predicted emotion is: {prediction[0]}")
     <td>
       <strong>Pratik Gaikar</strong><br>
       Data Scientist / Machine Learning Engineer<br>
-      🌐 <a href="https://github.com/pratikgaikar2903">GitHub</a> | 💼 <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratik-gaikar-5a6431245)">LinkedIn</a>
+      🌐 <a href="https://github.com/pratikgaikar2903">GitHub</a> | 💼 <a href="https://www.linkedin.com/in/pratik-gaikar-5a6431245">LinkedIn</a>
     </td>
   </tr>
 </table>
